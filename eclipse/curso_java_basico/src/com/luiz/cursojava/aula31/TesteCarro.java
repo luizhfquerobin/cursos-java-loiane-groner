@@ -7,7 +7,6 @@ public class TesteCarro {
 		Carro carro = new Carro();
 		carro.marca = "Fiat";
 		
-		carro.
 
 	}
 
